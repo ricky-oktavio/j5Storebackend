@@ -1,3 +1,3 @@
 <a href="/">
-    <img src="/images/logo.svg" style="height: 30px;"/>
+<img src="/images/j5storelogo.png" style="height: 80px;"/>
 </a>

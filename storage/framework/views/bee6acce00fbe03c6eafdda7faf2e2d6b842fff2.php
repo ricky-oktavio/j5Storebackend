@@ -1,1 +1,1 @@
-<img src="/images/logo.svg" style="height: 30px;"/><?php /**PATH /Users/rickypranata/Desktop/laravelApp/shamo-backend-main/resources/views/vendor/jetstream/components/application-mark.blade.php ENDPATH**/ ?>
+<img src="/images/j5storelogo.png" style="height: 80px;"/><?php /**PATH /Users/rickypranata/Desktop/laravelApp/shamo-backend-main/resources/views/vendor/jetstream/components/application-mark.blade.php ENDPATH**/ ?>
